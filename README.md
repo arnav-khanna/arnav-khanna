@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I code in the rain so no one can see me cry
 ##
 
-![Snake animation](https://github.com/Mr-Blahaj/Mr-Blahaj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arnav-khanna/arnav-khanna/blob/output/github-contribution-grid-snake.svg)
